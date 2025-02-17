@@ -10,7 +10,7 @@ ESI232B2
 """
 
 # Entradas
-palabra = input("Escribe una palabra:")
+palabra = input("Escribe una palabra: ")
 
 # Proceso
 if palabra [0] in ['a', 'á', 'A', 'Á']:
